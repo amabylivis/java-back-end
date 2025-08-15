@@ -1,3 +1,5 @@
+package exemplos;
+
 import java.util.Scanner;
 // exibir a tabuada
 public class ex04 {

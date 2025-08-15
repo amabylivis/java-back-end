@@ -1,7 +1,9 @@
+package Aulas;
+
 import java.util.Scanner;
 
 public class Aula01 {
-    //constantes, deve ser em maiusculo e antes do main
+    //constantes, deve ser em maiusculo e antes do exemplos.main
     private final static String WELCOME_MESSAGE = "Olá! Informe o seu nome: ";
 
     public static void main(String[] args) {

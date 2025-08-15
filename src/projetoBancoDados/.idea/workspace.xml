@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3823b577-5fc5-4299-aae4-02974df66155" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Aula01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/Aula04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/aula05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/aula06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/aula07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula08.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas/aula08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exemplos/ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exemplos/ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exemplos/ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exemplos/ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exemplos/ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exemplos/main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="31KI1EynSXCEW5TRkyV2kBEMrDT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3823b577-5fc5-4299-aae4-02974df66155" name="Changes" comment="" />
+      <created>1755266122695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755266122695</updated>
+      <workItem from="1755266124181" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
