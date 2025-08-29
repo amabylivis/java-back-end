@@ -1,3 +1,5 @@
+package projetoBancoDados;
+
 import br.com.dio.dao.UserDAO;
 import br.com.dio.exception.EmptyStorageException;
 import br.com.dio.exception.UserNotFoundException;
@@ -5,7 +7,6 @@ import br.com.dio.exception.ValidatorException;
 import br.com.dio.exception.customException;
 import br.com.dio.model.MenuOption;
 import br.com.dio.model.UserModel;
-
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
